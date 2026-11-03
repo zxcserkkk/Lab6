@@ -13,6 +13,11 @@
 - Если ни одно не подошло вывести сообщение «Нет чисел из интервала (-1, 1)».
 **Конец**
 
+### Блок-схема
+
+![BlokShema6.png]([https://github.com/zxcserkkk/Lab2Korenev/blob/master/Lab2%20Diag.png](https://github.com/zxcserkkk/Lab6/blob/master/BlokShema6.png))
+  
+
 ## Код
 
 ```c
@@ -59,12 +64,10 @@ int main()
 int interval(double num)
 {
     int res;
-    if (num > -1 && num < 1) {
+    if (num > -1 && num < 1)
         res = 1;
-    }
-    else {
+    else 
         res = 0;
-    }
     return res;
 }
 ```
