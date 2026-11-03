@@ -15,7 +15,7 @@
 
 ### Блок-схема
 
-![BlokShema6.png]([https://github.com/zxcserkkk/Lab2Korenev/blob/master/Lab2%20Diag.png](https://github.com/zxcserkkk/Lab6/blob/master/BlokShema6.png))
+![BlokShema6.png]([https://github.com/zxcserkkk/Lab2Korenev/blob/master/Lab2%20Diag.png](https://github.com/zxcserkkk/Lab6/blob/master/BlokShema6.png](https://github.com/zxcserkkk/Lab6/blob/master/BlokShema6.png?raw=true)))
   
 
 ## Код
